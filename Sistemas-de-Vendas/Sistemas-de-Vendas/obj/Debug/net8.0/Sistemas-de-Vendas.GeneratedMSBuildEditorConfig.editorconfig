@@ -1,0 +1,195 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Sistemas_de_Vendas
+build_property.RootNamespace = Sistemas_de_Vendas
+build_property.ProjectDir = C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Sistema-de-Venda\Sistemas-de-Vendas\Sistemas-de-Vendas\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Sistema-de-Venda\Sistemas-de-Vendas\Sistemas-de-Vendas
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/AccessLevels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzTGV2ZWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/AccessLevels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzTGV2ZWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/AccessLevels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzTGV2ZWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/AccessLevels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzTGV2ZWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/AccessLevels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzTGV2ZWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Clients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Clients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Registers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Registers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Registers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Registers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Registers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Sales/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Sales/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Sales/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Sales/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Sales/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Sistema-de-Venda/Sistemas-de-Vendas/Sistemas-de-Vendas/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-l4hiisvsx9
