@@ -22,6 +22,6 @@ Este projeto consiste em um Sistema de Controle de Vendas desenvolvido como part
 ## Acesso Administrador
 <img width="913" alt="image" src="https://github.com/BeaMozer/Sistema-de-Venda/assets/115944853/c6ea9df1-5ef0-47ae-9056-dd640636ce8a">
 
-##Vendas
+## Vendas
 
 <img width="917" alt="image" src="https://github.com/BeaMozer/Sistema-de-Venda/assets/115944853/76d1d285-fd31-4b6e-b2df-785a31482f32">
