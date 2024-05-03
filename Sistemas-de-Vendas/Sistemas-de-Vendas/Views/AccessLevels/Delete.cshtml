@@ -3,12 +3,11 @@
 @{
     ViewData["Title"] = "Delete";
 }
+<h1>Deletar Nível de Acesso</h1>
 
-<h1>Delete</h1>
-
-<h3>Are you sure you want to delete this?</h3>
+<h3>Você tem certeza que quer deletar esse nível de acesso?</h3>
 <div>
-    <h4>AccessLevel</h4>
+  
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -21,7 +20,7 @@
     
     <form asp-action="Delete">
         <input type="hidden" asp-for="AccessLevelID" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
+        <input type="submit" value="Deletar" class="btn btn-danger mt-3" />
+        <a asp-action="Index" class="btn btn-light mt-3">Voltar a Lista</a>
     </form>
 </div>

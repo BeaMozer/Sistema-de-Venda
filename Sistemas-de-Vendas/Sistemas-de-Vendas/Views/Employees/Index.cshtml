@@ -4,10 +4,8 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
-
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="text-decoration-none btn btn-dark"><i class="bi bi-plus-lg"></i> Adicionar Novo Usuário</a>
 </p>
 <table class="table">
     <thead>
@@ -27,14 +25,9 @@
             <th>
                 @Html.DisplayNameFor(model => model.Position)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.AccessLevel)
-            </th>
+            
             <th>
                 @Html.DisplayNameFor(model => model.HiringDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Register)
             </th>
             <th></th>
         </tr>
@@ -58,18 +51,13 @@
                 @Html.DisplayFor(modelItem => item.Position)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.AccessLevel)
-            </td>
-            <td>
                 @Html.DisplayFor(modelItem => item.HiringDate)
             </td>
+                
             <td>
-                @Html.DisplayFor(modelItem => item.Register)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.EmployeeID">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.EmployeeID">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.EmployeeID">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@item.EmployeeID" class="text-dark text-decoration-none">Editar <i class="bi bi-pencil-square"></i></a> |
+                    <a asp-action="Details" asp-route-id="@item.EmployeeID" class="text-dark text-decoration-none">Detalhes <i class="bi bi-arrow-right"></i></a> |
+                <a asp-action="Delete" asp-route-id="@item.EmployeeID"class="text-dark text-decoration-none">Deletar <i class="bi bi-trash-fill"></i></a>
             </td>
         </tr>
 }

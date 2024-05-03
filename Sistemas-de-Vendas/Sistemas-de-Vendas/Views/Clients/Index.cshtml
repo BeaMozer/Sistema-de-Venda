@@ -4,10 +4,9 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="text-decoration-none btn btn-dark"><i class="bi bi-plus-lg"></i> Adicionar Novo Usuário</a>
 </p>
 <table class="table">
     <thead>
@@ -27,24 +26,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.RegisterDate)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CEP)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Address)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Number)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.AdditionalInformation)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.City)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.UF)
-            </th>
+
             <th>
                 @Html.DisplayNameFor(model => model.RegisterId)
             </th>
@@ -72,24 +54,7 @@
             <td>
                 @Html.DisplayFor(modelItem => item.RegisterDate)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CEP)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Address)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Number)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.AdditionalInformation)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.City)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.UF)
-            </td>
+
             <td>
                 @Html.DisplayFor(modelItem => item.RegisterId)
             </td>
@@ -97,9 +62,9 @@
                 @Html.DisplayFor(modelItem => item.AccessLevel)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.ClientID">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.ClientID">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.ClientID">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@item.ClientID" class="text-dark text-decoration-none">Editar <i class="bi bi-pencil-square"></i></a> |
+                    <a asp-action="Details" asp-route-id="@item.ClientID" class="text-dark text-decoration-none">Detalhes <i class="bi bi-arrow-right"></i></a> |
+                    <a asp-action="Delete" asp-route-id="@item.ClientID" class="text-dark text-decoration-none">Deletar <i class="bi bi-trash-fill"></i></a>
             </td>
         </tr>
 }

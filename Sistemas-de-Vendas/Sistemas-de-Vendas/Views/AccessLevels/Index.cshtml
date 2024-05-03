@@ -4,11 +4,11 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
-
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="text-decoration-none btn btn-dark"><i class="bi bi-plus-lg"></i> Adicionar Novo Nível de Acesso</a>
 </p>
+
+
 <table class="table">
     <thead>
         <tr>
@@ -25,9 +25,9 @@
                 @Html.DisplayFor(modelItem => item.Level)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.AccessLevelID">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.AccessLevelID">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.AccessLevelID">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@item.AccessLevelID" class="text-dark text-decoration-none">Editar <i class="bi bi-pencil-square"></i></a> |
+                    <a asp-action="Details" asp-route-id="@item.AccessLevelID" class="text-dark text-decoration-none">Detalhes <i class="bi bi-arrow-right"></i></a> |
+                    <a asp-action="Delete" asp-route-id="@item.AccessLevelID" class="text-dark text-decoration-none">Deletar <i class="bi bi-trash-fill"></i></a>
             </td>
         </tr>
 }
