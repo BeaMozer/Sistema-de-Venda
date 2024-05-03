@@ -7,7 +7,7 @@ Este projeto consiste em um Sistema de Controle de Vendas desenvolvido como part
 ### Funcionalidades Principais:
 - **Cadastro de Produtos:** Permite o registro detalhado de todos os produtos disponíveis para venda, incluindo nome, descrição, preço, e outras informações relevantes.
   
-- **Gestão de Funcionários:** Facilita o controle de acesso e atribuição de responsabilidades aos funcionários, além de manter um registro atualizado de suas informações pessoais e de contato.
+- **Gestão de Funcionários:** Mantém um registro atualizado de informações pessoais e de contato dos Funcionários.
   
 - **Registro de Vendas:** Possibilita o registro de transações de vendas, incluindo detalhes sobre os produtos vendidos, o cliente, o funcionário responsável e outras informações pertinentes.
 
